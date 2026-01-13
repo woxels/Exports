@@ -4,3 +4,5 @@ A collection of PLY file exports from Voxel models designed in Woxel.
 You can submit to this list by creating a pull request or issue.
 
 These are all [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) unless stated otherwise.
+
+Special thanks to [Dibesfer](https://dibesfer.com) for contibutions.
